@@ -71,3 +71,11 @@
    ![Prometheus](images/prometheus.png)
 
 **NOTE: Security configurations you should perform on your monitoring server are out of scope for this tutorial.
+
+# Optional
+
+Follow the below link if you wish to include adapools metrics in Prometheus:
+
+https://github.com/mbos01/adapools-exporter
+
+
